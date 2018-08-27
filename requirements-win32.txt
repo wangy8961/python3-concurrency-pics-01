@@ -1,7 +1,4 @@
 aiohttp
 aiofiles
-beautifulsoup4
-lxml
 progressbar2
-pymongo
 requests
