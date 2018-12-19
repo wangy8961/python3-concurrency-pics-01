@@ -11,11 +11,11 @@
 
 # 1. 进度条
 
-![](http://www.madmalls.com/admin/medias/uploaded/gank-8a27a095.png)
+![](http://www.madmalls.com/api/medias/uploaded/gank-8a27a095.png)
 
 # 2. 截图
 
-![](http://www.madmalls.com/admin/medias/uploaded/gank-02-643b167c.png)
+![](http://www.madmalls.com/api/medias/uploaded/gank-02-643b167c.png)
 
 # 3. 使用方法
 
