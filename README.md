@@ -15,7 +15,7 @@
 
 # 2. 截图
 
-![](https://wx2.sinaimg.cn/large/007xgOh4ly1g40jvoam7xj30pb0hqthu.jpg)
+![](https://madmalls.com/api/medias/uploaded/gank-02-643b167c.png)
 
 # 3. 使用方法
 
