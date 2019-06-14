@@ -15,7 +15,7 @@
 
 # 2. 截图
 
-![](https://wx3.sinaimg.cn/large/007xgOh4ly1g40jnii41pj30pb0hqthu.jpg)
+![](https://wx2.sinaimg.cn/large/007xgOh4ly1g40jvoam7xj30pb0hqthu.jpg)
 
 # 3. 使用方法
 
